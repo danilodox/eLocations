@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">eLocations</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- Strings used for images -->
+    <string-array name="image_array">
+        <item>Tirar foto</item>
+        <item>Escolher da galeria</item>
+        <item>Cancelar</item>
+    </string-array>
+
+
+    <!-- Strings used for spinner -->
+    <string-array name="states_array">
+        <item>Acre</item>
+        <item>Alagoas</item>
+        <item>Amapá</item>
+        <item>Amazonas</item>
+        <item>Bahia</item>
+        <item>Ceará</item>
+        <item>Distrito Federal</item>
+        <item>Espírito Santo</item>
+        <item>Goiás</item>
+        <item>Maranhão</item>
+        <item>Mato Grosso</item>
+        <item>Mato Grosso do Sul</item>
+        <item>Minas Gerais</item>
+        <item>Pará</item>
+        <item>Paraíba</item>
+        <item>Paraná</item>
+        <item>Pernambuco</item>
+        <item>Piauí</item>
+        <item>Rio de Janeiro</item>
+        <item>Rio Grande do Norte</item>
+        <item>Rio Grande do Sul</item>
+        <item>Rondônia</item>
+        <item>Roraíma</item>
+        <item>Santa Catarina</item>
+        <item>São Paulo</item>
+        <item>Sergipe</item>
+        <item>Tocantins</item>
+    </string-array>
+
+
+    <string-array name="category_array">
+        <item>Lanchonete</item>
+        <item>Restaurante</item>
+        <item>Ponto de Ônibus</item>
+        <item>Escola</item>
+        <item>Posto de Gasolina</item>
+        <item>Supermercado</item>
+        <item>Outro</item>
+    </string-array>
+
+    <!-- Strings used for add images -->
+    <string name="escolha_imagem_estabelecimento">Escolha uma imagem para seu estabelecimento</string>
+
+
+    <!-- Strings used for delete establishment -->
+    <string name="deseja_remover">Deseja remover estabelecimento da lista?</string>
+    <string name="removido_com_sucesso">Estabelecimento removido com sucesso.</string>
+    <string name="remover">Remover</string>
+    <string name="remocao_estabelecimento">Remoção de estabelecimento.</string>
+
+    <!-- Strings used for delete images -->
+    <string name="deseja_remover_imagem">Deseja remover a imagem atual?</string>
+    <string name="removida_com_sucesso">Imagem removida com sucesso.</string>
+    <string name="remocao_imagem">Remoção de imagem.</string>
+
+    <!-- Strings used for save establishment -->
+    <string name="estabelecimento_salvo_com_sucesso">Estabelecimento salvo com sucesso!</string>
+
+    <!-- Strings used for update establishment -->
+    <string name="estabelecimento_atualizado_com_sucesso">Estabelecimento atualizado com sucesso!</string>
+
+    <!-- Strings used for unexpected error  -->
+    <string name="error_inesperado">Algo de errado ocorreu. Tente novamente mais tarde.</string>
+
+    <string name="cancelar">Cancelar!</string>
+
+
+</resources>
