@@ -7,7 +7,7 @@
 
 **Libaries utilizadas nesse Projeto:**
 
-- <a href="https://developer.android.com/topic/libraries/architecture/livedata">LiveData - </a> LiveData is an observable data holder class by Google.
+- <a href="https://developer.android.com/topic/libraries/architecture/livedata">LiveData - </a> Uma classe armazenadora de dados observável.
 - <a href="https://developer.android.com/jetpack/androidx/releases/room">Room - </a> A biblioteca de persistência na qual oferece uma camada de abstração sobre o SQLite.
 - <a href="https://developer.android.com/kotlin/coroutines">Kotlin coroutines on Android - </a> Padrão de projeto de somultaneidade para simplificar o código que é executado de forma assíncrona.
 - <a href="https://developer.android.com/topic/libraries/data-binding?hl=pt-br">Data Binding Library - </a> Biblioteca de apoio que permite vincular componentes de IU dos seus layouts a fontes de dados do app usando um formato declarativo, em vez de programático.
